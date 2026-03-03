@@ -83,21 +83,6 @@ Recommended execution order: run all cells from top to bottom once.
 
 ---
 
-## Key Output Files
-
-The notebook saves figures for report writing:
-
-- `hog_cm.png`
-- `resnet18_cm.png`
-- `effb0_64_noaug_cm.png`
-- `effb0_128_noaug_cm.png`
-- `effb0_aug_cm.png`
-- `effb0_ablation_curves.png`
-
-If your local notebook version is set to save into `figures/`, the same files will be under `figures/`.
-
----
-
 ## Environment / Dependencies
 
 Main Python packages used:
